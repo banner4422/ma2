@@ -3,11 +3,13 @@
 ***
 
 ### Group members
-| Student name | Student ID |
-| --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Student name            | Student ID |
+|-------------------------|------------|
+| Christian Krogh Nielsen | 137071     |
+| Morten Smedegaard       | 176561     |
+| Johannes Lind           | 146276     |
+| Victor Berstrand        | 176868     |
+| Frederik Bomheuer       | 176811     |
 
 ***
 
