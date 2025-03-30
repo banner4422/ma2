@@ -20,3 +20,4 @@ dependencies:
   - pytorch
   - pip:
     - ibm-watsonx-ai==1.2.9
+  - python-dotenv
